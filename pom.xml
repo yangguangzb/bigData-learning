@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.san</groupId>
+  <artifactId>bigData</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.6</source>
+          <target>1.6</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  
+  <!-- 集中定义依赖版本号 -->
+  <properties>
+  	<log4j.version>1.2.16</log4j.version>
+	<junit.version>4.9</junit.version>
+  </properties>
+  
+  <!-- 配置jar包 -->
+  <dependencies>
+  	<!-- 单元测试 -->
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>${junit.version}</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
+   
+  <modules>
+  	<module>zookeeper</module>
+  </modules>
+</project>

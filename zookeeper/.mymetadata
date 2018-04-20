@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zookeeper"
+  id="myeclipse.1524216071731"
+  context-root="/zookeeper"
+  j2ee-spec="6.0"
+  archive="zookeeper.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
