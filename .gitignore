@@ -1,0 +1,15 @@
+############ java ###########
+# temp folders
+classes
+target
+logs
+
+# temp files
+*.class
+*.jar
+*.war
+*.versionsBackup
+
+############ eclipse ##########
+.classpath
+.project
