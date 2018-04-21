@@ -5,10 +5,8 @@
 <br/>
 
 ### Zookeeper
+[百度一下](www.baidu.com)
 
-<br/>
-    [我的博客](https://github.com/yangguangzb/bigData-learning/tree/master/zookeeper/src/main/java/com/san/zk)
-<br/>
 
 #### 我的联系
 QQ：2570886020             <br/>
