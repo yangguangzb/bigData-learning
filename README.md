@@ -5,7 +5,7 @@
 <br/>
 ###Zookeeper
 <br/>
-+ [Zookeeper增删改查](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
+*  [我的](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
 
 <br/>
 #### 我的联系
