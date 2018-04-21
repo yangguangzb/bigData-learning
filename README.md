@@ -3,16 +3,9 @@
 在[我的博客](https://blog.csdn.net/shaonianbz)中，欢迎访问，如果觉得写得还可以的话，鼓励一下，点点**star** <br/>
 
 <br/>
-###目录结构
+###Zookeeper
 <br/>
-<ul>
-  <li>[Zookeeper增删改查](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)</li><br/>
-  
-  <li></li><br/>
-  
-  <li></li><br/>
-  
-</ul>
+* [Zookeeper增删改查](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
 
 <br/>
 #### 我的联系
