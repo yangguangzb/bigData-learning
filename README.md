@@ -5,8 +5,7 @@
 <br/>
 ###Zookeeper
 <br/>
-*  [我的](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
-
+    [我的博客](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
 <br/>
 #### 我的联系
 QQ：2570886020             <br/>
