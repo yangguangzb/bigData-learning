@@ -5,8 +5,10 @@
 <br/>
 
 ### Zookeeper
-[Zookeeper的增删改查](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
+- [Zookeeper的增删改查](https://github.com/yangguangzb/bigData-learning/blob/master/zookeeper/src/main/java/com/san/zk/SimpleZkClient.java)
+- [Zookeeper服务器上下线动态](https://github.com/yangguangzb/bigData-learning/tree/master/zookeeper/src/main/java/com/san/distributed)
 
+### 
 
 #### 我的联系
 QQ：2570886020             <br/>
