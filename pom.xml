@@ -31,9 +31,35 @@
   		<version>${junit.version}</version>
   		<scope>test</scope>
   	</dependency>
+  	
+  	<dependency>
+	    <groupId>log4j</groupId>  
+            <artifactId>log4j</artifactId>  
+            <version>1.2.15</version>  
+            <exclusions>  
+                <exclusion>  
+                    <groupId>com.sun.jmx</groupId>  
+                    <artifactId>jmxri</artifactId>  
+                </exclusion>  
+                <exclusion>  
+                    <groupId>com.sun.jdmk</groupId>  
+                    <artifactId>jmxtools</artifactId>  
+                </exclusion>  
+                <exclusion>  
+                    <groupId>javax.jms</groupId>  
+                    <artifactId>jms</artifactId>  
+                </exclusion>  
+            </exclusions>  
+	</dependency>
+  	
   </dependencies>
+   
+   
+   
    
   <modules>
   	<module>zookeeper</module>
+  	<module>hadoop</module>
+  	<module>redis</module>
   </modules>
 </project>

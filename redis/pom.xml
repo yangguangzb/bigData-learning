@@ -19,4 +19,27 @@
       </plugin>
     </plugins>
   </build>
+  
+  <!-- jedis的jar -->
+  <dependencies>
+  	<dependency>
+	    <groupId>org.apache.commons</groupId>
+	    <artifactId>commons-pool2</artifactId>
+	    <version>2.3</version>
+	</dependency>
+  	<dependency>
+	    <groupId>redis.clients</groupId>
+	    <artifactId>jedis</artifactId>
+	    <version>2.7.0</version>
+	</dependency>
+  	
+  	<!-- spring -->
+  	<dependency>
+         <groupId>org.springframework.data</groupId>
+         <artifactId>spring-data-redis</artifactId>
+         <version>1.8.4.RELEASE</version>
+    </dependency>
+  	
+  </dependencies>
+  
 </project>
