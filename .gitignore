@@ -13,3 +13,6 @@ logs
 ############ eclipse ##########
 .classpath
 .project
+
+.settings
+.mymetadata
