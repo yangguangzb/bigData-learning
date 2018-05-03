@@ -14,5 +14,7 @@ logs
 .classpath
 .project
 
-.settings
+/.settings/
+.settings/
+/target/
 .mymetadata
