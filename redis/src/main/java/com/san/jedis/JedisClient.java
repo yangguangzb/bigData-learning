@@ -12,7 +12,7 @@ public class JedisClient {
 	 */
 	@Test
 	public void jedisClient(){
-		Jedis jedis = new Jedis("192.168.253.21",6379);
+		Jedis jedis = new Jedis("101.132.158.84",6379);
 		//通过set赋值
 		jedis.set("s3","3333");
 		//jedis.select("");选择数据库
@@ -28,7 +28,7 @@ public class JedisClient {
 	 */
 	@Test
 	public void jedisPool(){
-		JedisPool pool = new JedisPool("192.168.253.21",6379);
+		JedisPool pool = new JedisPool("101.132.158.84",6379);
 		//通过连接池获取jedis对象
 		Jedis jedis = pool.getResource();
 		jedis.set("s4", "444");
