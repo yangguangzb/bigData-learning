@@ -15,8 +15,6 @@
 ### Hadoop
 
 #### 我的联系
-QQ：2570886020             <br/>
-邮箱：2570886020@qq.com    </br>
 我的博客：https://blog.csdn.net/shaonianbz </br>
 版权归作者所有，转载请注明出处
 
